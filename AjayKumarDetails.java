@@ -38,6 +38,12 @@ public class AjayKumarDetails {
 		System.out.println("Become a Business Man");
 
 	}
+	
+	private void ajayNumber() {
+		System.out.println("9876543210");
+
+	}
+	
 
 	public static void main(String[] args) {
 		AjayKumarDetails a = new AjayKumarDetails();
