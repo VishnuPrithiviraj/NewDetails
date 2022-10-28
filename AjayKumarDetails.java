@@ -16,21 +16,21 @@ public class AjayKumarDetails {
 	}
 
 	private void ajayKumarFatherName() {
-		System.out.println("Ajay Kumar Father Name is Ganapathy");
+		System.out.println("Ajay Kumar Father Name is M.Ganapathy");
 
 	}
 
 	private void ajayKumarMotherName() {
-		System.out.println("Ajay Kumar Mother Name is Venkateshwari");
+		System.out.println("Ajay Kumar Mother Name is G.Venkateshwari");
 	}
 
 	private void ajayKumarSisterName() {
-		System.out.println("Ajay Kumar Sister Name is Vidhya");
+		System.out.println("Ajay Kumar Sister Name is G.Vidhya");
 
 	}
 
 	private void ajayKumarLifePartnerName() {
-		System.out.println("Ajay Kumar LifePartner Name is Sasi");
+		System.out.println("Ajay Kumar LifePartner Name is A.Sasi");
 
 	}
 
