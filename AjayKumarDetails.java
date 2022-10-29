@@ -44,6 +44,11 @@ public class AjayKumarDetails {
 
 	}
 	
+	private void vishnunumber() {
+		System.out.println("8248124323");
+
+	}
+	
 
 	public static void main(String[] args) {
 		AjayKumarDetails a = new AjayKumarDetails();
